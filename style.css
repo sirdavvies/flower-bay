@@ -1,0 +1,19 @@
+
+h1{
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-align: left;
+    color: white;
+}
+
+h2{
+    text-decoration: solid;
+    text-transform: lowercase;
+    text-align: left;
+    color: white;
+}
+
+body{
+background-image: url(./nasa-galaxy_9pu4.1248.webp);
+
+} 
